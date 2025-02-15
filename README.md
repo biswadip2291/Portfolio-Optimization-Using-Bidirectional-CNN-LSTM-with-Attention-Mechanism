@@ -31,7 +31,7 @@ We tested three advanced models for stock price prediction using 2 years of hist
 
 | **Model**                              | **Average MSE** |
 |----------------------------------------|-----------------|
-| **CNN-Bidirectional LSTM with Attention** | **6.42** (Best)      |
+| **CNN-Bidirectional LSTM with Attention** | **5.87** (Best)      |
 | **CNN-LSTM Based Model**               | **9.74**        |
 | **Combined SARIMA CNN-LSTM**           | **38.53**       |
 
